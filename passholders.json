@@ -1,0 +1,21 @@
+{
+    "987654321": {
+        "id": 987654321,
+        "name": "Jonah Landeck",
+        "dob": "09-27-2001",
+        "pin": "1234",
+        "pay_method": "Visa x9998",
+        "days_purchased": 12,
+        "reservation_list": [
+            "03-27-2025",
+            "03-28-2025",
+            "09-27-2025"
+        ],
+        "buddy_pass_list": [
+            "ccagno@asu.edu",
+            "tschulte@asu.edu",
+            "vmcnulty@asu.edu",
+            "selin2@asu.edu"
+        ]
+    }
+}
